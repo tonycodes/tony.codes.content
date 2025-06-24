@@ -1,0 +1,257 @@
+{
+  "personal": {
+    "name": "Tony James",
+    "title": "Application Development Manager",
+    "location": "Milton Keynes, England, United Kingdom",
+    "email": "me@tony.codes",
+    "phone": "(+44) 20 3488-3765",
+    "summary": "As a forward-thinking individual with a passion for technology, I am constantly seeking out new ways to innovate and improve upon existing systems. Whether I am working on a new project or collaborating with a team, my focus is always on driving progress and finding creative solutions to complex problems. I am excited to see where my love of technology will take me next, and I am always looking for new opportunities to learn and grow in this exciting field.",
+    "topSkills": [
+      "HR Transformation",
+      "Jira", 
+      "Agile Methodologies"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Elementary"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "CityFibre",
+      "role": "Application Development Manager",
+      "period": "August 2023 - Present",
+      "duration": "1 year 11 months",
+      "location": "Milton Keynes, England, United Kingdom",
+      "description": "",
+      "highlights": []
+    },
+    {
+      "company": "Stubben Edge",
+      "role": "Software Architect | PHP/Laravel/React/Management",
+      "period": "September 2022 - April 2023",
+      "duration": "8 months",
+      "location": "London",
+      "description": "",
+      "highlights": [
+        "Translated stakeholder requirements into maintainable, modular software with rigorous testing",
+        "Aligned architecture with business needs through lean approaches & innovative technology utilization",
+        "Introduced NoOps, reducing DevOps reliance, accelerating deployment cycles and reducing costs",
+        "Increased productivity and collaboration by migrating from Azure to Jira",
+        "Executed end-to-end developer sourcing, screening, interviewing, and skill testing for dozens of devs",
+        "Managed extensive contractor sourcing and onboarding for rapid turnaround of essential work",
+        "Reduced technical debt by over 90%, minimizing bugs and downtime with comprehensive tracking",
+        "Transformed from 90% outsourced team to a 90% in-house model using Spotify squad structure",
+        "Established 5 high-performing squads totaling over 30 developers, elevating delivery pace & quality"
+      ]
+    },
+    {
+      "company": "Stubben Edge",
+      "role": "Development Lead | PHP/Laravel/Livewire",
+      "period": "July 2022 - September 2022",
+      "duration": "3 months", 
+      "location": "London",
+      "description": "",
+      "highlights": [
+        "Leading a team of 10 offshore developers",
+        "Working on Laravel API's",
+        "Introduced PHPunit testing and grew coverage up to 90+ %",
+        "Mentoring and performing code reviews"
+      ]
+    },
+    {
+      "company": "British Film Institute (BFI)",
+      "role": "Senior Laravel/PHP Consultant",
+      "period": "January 2022 - June 2022",
+      "duration": "6 months",
+      "location": "London, England, United Kingdom",
+      "description": "",
+      "highlights": [
+        "Working on Laravel Restful API's",
+        "Using Docker (Deployable)",
+        "Performing code reviews",
+        "Writing PHPUnit tests",
+        "Working under Agile methodologies"
+      ]
+    },
+    {
+      "company": "The Marketing Store, Europe",
+      "role": "Senior Laravel/PHP Consultant",
+      "period": "May 2021 - November 2021",
+      "duration": "7 months",
+      "location": "London, England, United Kingdom",
+      "description": "",
+      "highlights": [
+        "Senior developer on the global McDonald's Monopoly project, serving ~13 million users",
+        "Built two AWS Lambda functions and API gateway integrated with Dynamo DB for MMA app",
+        "Boosted user engagement by adding new prize paths on Monopoly site, integrated with multiple APIs",
+        "Improved system performance and stability using Blazemeter for load testing"
+      ]
+    },
+    {
+      "company": "NCC Group | Formerly FortConsult",
+      "role": "Senior Laravel/PHP Consultant",
+      "period": "April 2021",
+      "duration": "1 month",
+      "location": "Manchester Area, United Kingdom",
+      "description": "Actively contributing as a Backend Laravel Developer within a cybersecurity-focused organisation, primarily working on API development and integrations.",
+      "highlights": []
+    },
+    {
+      "company": "Zurich Insurance",
+      "role": "Senior Laravel/PHP Consultant", 
+      "period": "September 2020 - December 2020",
+      "duration": "4 months",
+      "location": "",
+      "description": "Oversaw the strategic planning and development of the Vitality pass-through API solution designed for Prudential Brazil and Argentina. This integral API solution will facilitate the processing of over 50 million insurance policies, activating and revoking the Vitality benefits package based on specific insurer rules.",
+      "highlights": [
+        "Took on a leading role, contributing to 90% of the API development, which involved meticulous design, coding, testing, and optimization",
+        "Initiated the adoption of a test-driven development (TDD) approach, resulting in enhanced code quality, easier maintenance, and expedited debugging processes",
+        "Successfully mitigated bugs and regression by over 95%, bolstering the reliability and performance of the API, thereby streamlining the benefits management for millions of insurance policies"
+      ]
+    },
+    {
+      "company": "BP Chargemaster",
+      "role": "Senior Laravel/PHP Consultant",
+      "period": "September 2019 - July 2020",
+      "duration": "11 months",
+      "location": "Milton Keynes, England, United Kingdom",
+      "description": "A significant portion of my role involved modernising legacy systems, transitioning them into more efficient and standardised Laravel-based frameworks.",
+      "highlights": [
+        "Developed a REST API adhering to the OCPI specification to deliver charge point data to Mercedes, ensuring real-time and accurate data transfer",
+        "Constructed a data export system that feeds into Palantir's big data platform, capable of processing over 1 million records on each export, thereby enhancing data-driven decision-making capabilities",
+        "Engineered an offer management system integrated with OVO Energy, streamlining the offer creation and distribution process",
+        "Developed the Workplace Plus system, a comprehensive solution that offers managed free charging to client employees, contributing to corporate sustainability goals"
+      ]
+    },
+    {
+      "company": "Bonfire Creative Intelligence",
+      "role": "Senior Laravel/PHP Consultant",
+      "period": "May 2018 - November 2018",
+      "duration": "7 months",
+      "location": "Buckinghamshire",
+      "description": "",
+      "highlights": [
+        "Sole backend developer for all Laravel framework projects",
+        "Planned, implemented and deployed biggest budget site ever fulfilled by Bonfire (Star Medical)",
+        "Connected Star with the BroadBean API for live job feeds",
+        "Configured a synchronisation mechanism for jobs to be redistributed based on country (UK, IE and Europe)"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "PHP",
+      "Laravel", 
+      "React",
+      "Vue.js",
+      "Livewire",
+      "Docker",
+      "AWS",
+      "API Development",
+      "Microservices",
+      "TDD/PHPUnit",
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "Git",
+      "CI/CD",
+      "Agile/Scrum",
+      "Jira"
+    ],
+    "management": [
+      "Team Leadership",
+      "Software Architecture",
+      "Project Management",
+      "Stakeholder Management",
+      "Developer Recruitment",
+      "Mentoring",
+      "Code Reviews",
+      "Technical Debt Management",
+      "Squad/Team Building"
+    ],
+    "cloud": [
+      "AWS Lambda",
+      "AWS S3",
+      "AWS SQS", 
+      "AWS Route 53",
+      "Docker",
+      "NoOps",
+      "Serverless"
+    ]
+  },
+  "stats": {
+    "yearsExperience": "20+",
+    "projectsCompleted": "100+",
+    "teamSize": "30+",
+    "usersServed": "50M+"
+  },
+  "brands": [
+    {
+      "name": "McDonald's",
+      "logo": "/logos/mcdonalds.svg",
+      "description": "Global McDonald's Monopoly project",
+      "bgColor": "#000000",
+      "logoInvert": false,
+      "work": "Built global Monopoly platform serving 13M+ users. Developed AWS Lambda functions and improved engagement with new prize paths."
+    },
+    {
+      "name": "Zurich Insurance",
+      "logo": "/logos/zurich.svg",
+      "description": "Global insurance company",
+      "bgColor": "#0066CC",
+      "logoInvert": true,
+      "work": "Led Vitality API solution for Brazil/Argentina processing 50M+ insurance policies. Achieved 95% bug reduction through TDD."
+    },
+    {
+      "name": "BP Chargemaster",
+      "logo": "/logos/bp.svg",
+      "description": "UK's largest EV charging network",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Built OCPI-compliant REST API for Mercedes. Developed Workplace Plus system for managed EV charging solutions."
+    },
+    {
+      "name": "Virgin Active",
+      "logo": "/logos/virgin-active.svg",
+      "description": "Global health club operator",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Delivered enterprise-level applications supporting member experience and club operations."
+    },
+    {
+      "name": "Vitality",
+      "logo": "/logos/vitality.svg",
+      "description": "Health and life insurance provider",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Developed pass-through API solution managing benefits for millions of insurance policies across multiple countries."
+    },
+    {
+      "name": "Zoopla",
+      "logo": "/logos/zoopla.svg",
+      "description": "UK's leading property portal",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Built scalable property search features and data processing systems for UK's leading property platform."
+    },
+    {
+      "name": "BT",
+      "logo": "/logos/bt.svg",
+      "description": "British telecommunications company",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Developed telecommunications infrastructure and customer management systems."
+    },
+    {
+      "name": "Xbox",
+      "logo": "/logos/xbox.svg",
+      "description": "Microsoft gaming platform",
+      "bgColor": "#FFFFFF",
+      "logoInvert": false,
+      "work": "Built gaming platform features and backend services supporting millions of Xbox users."
+    }
+  ]
+}
