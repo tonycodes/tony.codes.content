@@ -1,37 +1,68 @@
 [
   {
+    "slug": "the-reasons-why-you-need-laravel-nightwatch",
+    "title": "The Reasons Why You Need Laravel Nightwatch",
+    "date": "2025-06-24",
+    "tags": [
+      "Laravel",
+      "Nightwatch",
+      "Web Development"
+    ],
+    "readTime": "5 min read"
+  },
+  {
     "slug": "building-scalable-laravel-applications",
     "title": "Building Scalable Laravel Applications",
     "date": "2024-01-15",
-    "tags": ["Laravel", "PHP", "Architecture"],
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Architecture"
+    ],
     "readTime": "5 min read"
   },
   {
     "slug": "vue-3-composition-api-deep-dive",
     "title": "Vue 3 Composition API: A Deep Dive",
     "date": "2024-01-10",
-    "tags": ["Vue.js", "JavaScript", "Frontend"],
+    "tags": [
+      "Vue.js",
+      "JavaScript",
+      "Frontend"
+    ],
     "readTime": "8 min read"
   },
   {
     "slug": "modern-php-development-laravel-11",
     "title": "Modern PHP Development with Laravel 11",
     "date": "2024-01-05",
-    "tags": ["Laravel", "PHP", "Web Development"],
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Web Development"
+    ],
     "readTime": "6 min read"
   },
   {
     "slug": "tailwind-css-advanced-techniques",
     "title": "Advanced Tailwind CSS Techniques",
     "date": "2023-12-28",
-    "tags": ["CSS", "Tailwind", "Frontend"],
+    "tags": [
+      "CSS",
+      "Tailwind",
+      "Frontend"
+    ],
     "readTime": "7 min read"
   },
   {
     "slug": "docker-development-workflow",
     "title": "Optimizing Your Docker Development Workflow",
     "date": "2023-12-20",
-    "tags": ["Docker", "DevOps", "Development"],
+    "tags": [
+      "Docker",
+      "DevOps",
+      "Development"
+    ],
     "readTime": "10 min read"
   }
 ]
